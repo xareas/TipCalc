@@ -28,6 +28,6 @@ ext {
     minSdkVersion=16
     targetSdkVersion=23
     supportLibraryVersion='23.4.0'
-    butterKnifeVersion= '8.0.1'
+    butterKnifeVersion= '7.0.1'
 
 }
